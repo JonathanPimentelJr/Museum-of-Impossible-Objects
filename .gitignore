@@ -1,0 +1,9 @@
+cover secrets, os junk editor folders, python leftovers
+*.swp
+*.swo
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pycache
+*.nvmrc
